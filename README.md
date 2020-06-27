@@ -1,5 +1,7 @@
 # 前端知识汇总
 
+## 浏览器
+
 ## javascript 基础
 
 - 数据类型
@@ -102,3 +104,12 @@
 ## Node
 
 - 模块的导入导出-commonjs 规范
+
+## 面试
+
+- [[汇总]阿里前端攻城狮们又写了一份面试题答案，请查收](https://github.com/mqyqingfeng/frontend-interview-question-and-answer/issues/47)
+- [2020 年前端面试复习必读精选文章【赠复习导图】](https://github.com/axuebin/articles/issues/39)
+- [面试须知：浏览器相关原理详细总结（1）](https://mp.weixin.qq.com/s?src=11&timestamp=1592120678&ver=2399&signature=wp2NkI7bgNbOZzJReIhu4RyTXVigNFemHcIQadKpWz1cmQ-K0TQSlx-IK*FOqo9RLwaxDjmozk33jLwZ1GTJBDYGng2lbuHMNVmr2chYF-GNLPmLk0dyORjGR495KpoF&new=1)
+- [图解浏览器工作原理](https://mp.weixin.qq.com/s?src=11&timestamp=1592120678&ver=2399&signature=anHeQjo51gHse2evWWEp*FaGiGOd7uoA6CogRMHpTBW0yEIG6BJCMdE4D*T7rvwHVS4rHBSCnWz*KYltj2Q7lvBM7DeYDgxb3KRs*6sh1IZu3DH34ukmE-jPZkhSruFm&new=1)
+
+* https://www.jianshu.com/p/4840a90751e1
